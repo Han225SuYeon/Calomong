@@ -37,6 +37,7 @@
 - Git, GitHub
 - Figma (UI/UX 설계)
 
+---
 
 4조 칼로몽
 http://192.168.50.56:3000/main
